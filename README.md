@@ -29,7 +29,8 @@ You need to have an existing profile that has started the game. You can just sta
 
 ANY MOD THAT MUST BE ENABLED ON A CLEAN PROFILE MUST BE DONE SO MANUALLY!
 
-This mod utilizes the DarkestDungeonSaveEdittor, made by robojumper found at https://github.com/robojumper/DarkestDungeonSaveEditor.
+This mod utilizes the DarkestDungeonSaveEditor, made by robojumper, found at https://github.com/robojumper/DarkestDungeonSaveEditor.
 You need to download it and provide the path in the code defines.
+
 
 # As the license states, you are free to use them however you want and I am not held accountable for anything that may go wrong
