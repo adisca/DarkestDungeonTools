@@ -1,0 +1,171 @@
+# You can use comments if the first character of a line is # (care for spaces)
+# Also empty lines are ignored (once again be careful not to have spaces)
+# Don't place any commas or you might break it
+
+# Place the names of the mods you want to enable here in the order you want them to be loaded in
+# The name must be exactly as in the project.iml file of the mod
+# The names can be copied from the "available_mods.csv" after running the program once
+# which shows all inactive mods from your mods folder
+
+# Bellow is an example of the mods I used have fun with the list if you want
+
+
+
+# Patches
+Mafe Patch for Quest Generation Issues
+Compact Quest Screen
+Here Be Monsters: Koala's Creature Collection Compatibility Patch
+Here Be Monsters: Void's HFLM Compatibility Patch
+Districts String Fix
+Marvin Seo Mods: Shared Assets
+
+# Large Gameplay Overhauls
+All Skill To All Class
+"Trinkets 5, 24 Inventory, 10 Quirks"
+The Creeping Mist
+Pet Cemetery (Dungeon Mod)
+Pet Store (Patch)
+NKCC: The Festival of Light and Death
+The Sunward Isles (New Dungeon)
+The Raiju: A Sunward Addon
+The Sunward Isles (New Dungeon)
+The Mountain - Updated Version
+Pets 2 (Trinket + Monster Mod)
+Courtyard Plus
+Farmstead Plus
+The Arena
+The Marcus Brothers
+
+# Small Gameplay Changes
+Quirk Expansion Pack by Marvin Seo
+More Quirks Mod
+More Quirks Mod : Crimson Court
+The Color of Blood and Venom
+Buy A Map
+
+# Rebalances
+No More Circus Town Events
+Reworked Town Events
+Reworked Town Events (Crimson Court)
+Reworked Town Events (Shieldbreaker)
+Revamp for Vamp - Class Tweaks
+Cho's Boss Reworks
+Crimson Curse Buff
+Increased Rate of Virtues (RTD)
+
+# Monsters
+Spider Nests 2 (Monster Mod)
+Here Be Monsters: Full Release
+Here Be Monsters: Endless Harvest Waves
+Here Be Monsters: The New Shadow
+Koala's Creature Collection
+Koala's Creature Collection Monsters In Endless!
+The Home for Lost Monsters
+Moonlit Dungeon - Ruins Enemy Pack
+The Rotting King
+Lev Invasion (Black Reliquary Teaser)
+Wildlander Invasion (Black Reliquary Teaser)
+The Shrouded Chief: New Boss Mod
+The Manor
+The Twins
+ Shadow Of The White Vvulf
+Unhooded Shrew Mini-boss
+The Banshee by Marvin Seo and Clair de Lune
+Nerub
+Mimic Miniboss Creeping Mist version
+Roaming Cultists
+Doomsday (Monster Mod)
+Roaming Shrieker
+Roaming Crocodile (CC Required!)
+The Roaming Raiju
+The Incandescent Whisperer
+Stonequeen's Court
+Fallen Heroes
+Beyond Mortality by Golden Yak
+
+# Classes
+The Fawn -  Remastered
+Exaelus' Seer Class Mod
+Bogatyr Class Mod
+The Rightful Heir
+The Rightful Heiress
+Omen Seeker Class Mod TEST
+Pit Fighter - Class Mod
+Marvin Seo's Seraph Class Mod
+Marvin Seo's Sisters Class Mod
+Slayer Class Mod 
+The Snake Charmer
+The Soothsayer Class Mod
+Surgeon - Class Mod
+The Hollow -  Class Mod
+The Hood -  Class Mod
+The Offering 2.0 - Class Mod
+The Shrapnel -  Class Mod
+The Tusk - Class Mod
+Marvin Seo's Thrall Class Mod
+Tifa Lockhart -  Class Mod
+The Twilight Knight
+Vamp - New Class Mod
+Marvin Seo's Wraith Class Mod
+The Wretch Class Mod
+Courtesan -  Class Mod
+The Darkwraith
+Dragonslayer
+Druid - Class Mod
+Duchess Class Mod
+The Exorcist Class Mod
+Marvin Seo's Falconer Class Mod
+Good Girl - Class Mod
+Homunculus / Class mod 1.7
+The Keeper Class Mod
+Marvin Seo's Lamia Class Mod
+Lilith class
+Trap Maker - Class Mod
+Acolyte of Sun - New Class
+Assassin Class Mod
+Cannoneer - Class Mod
+Cataphract Class Mod
+Abysswalker
+The Hive
+The Innocent Class Mod
+The Voivode - Reworked
+The Succubus
+The Thorn
+The Itinerant Cook
+The Bloat Class Mod
+The Blackguard Class Mod
+The Philomath Class
+The Stargazer Class Mod
+「殷红迷雾」The Red Mist
+「邵」Xiao Class Mod
+The Choir Hunter Class Mod
+The Saw Hunter Hero Mod
+The Hexer Class Mod
+「红莲」Red Lotus
+The Stars Class Mod
+The Librarian: Community Project
+Grove tender Class Mod
+
+# Trinkets
+The Advent of the Ghost
+The Profligates -  CoM Trinkets
+The Hollow -  CC Trinkets
+The Hood -  CC Trinkets
+The Offering -  CC Trinkets
+The Shrapnel -  CC Trinkets
+The Tusk - CC Trinkets
+Tifa Lockhart - CC Trinkets
+Marvin Seo's Crimson Court Trinkets
+Marvin Seo's Color of Madness Trinkets
+Bloat Class Mod-Trinket Pack
+ Slayer/Cataphract/OS CoM Trinkets 
+Cataphract Crimson Court Trinkets TEST
+Hunters Treasure Comet Trinkets
+Major Arcana Trinkets
+Sunward Isles: Marvin Seo Class Trinkets
+Sunward Isles: S-Purple Class Trinkets
+「星空夜愿 2.0」StarryNight Trinkets Pack
+
+# Skins
+Additional Crimson Court Backgrounds
+More dungeon backround variations all in one- Reworked
